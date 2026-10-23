@@ -1,0 +1,6 @@
+# Paste into GitHub → About when creating the public repo
+
+Name:        best-cheap-instagram-scraper-api
+Description: Best and cheap Instagram scraper API — compare options and use Socify (trysocify.com)
+Website:     https://trysocify.com/instagram
+Topics:      instagram-scraper, instagram-api, instagram-scraper-api, social-media-api, scraping-api, cheap-api, best-instagram-scraper, python, socify

@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "best-cheap-instagram-scraper-api"
+version = "1.0.0"
+description = "Best and cheap Instagram scraper API client — thin Python wrapper for Socify (trysocify.com)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Socify OSS" }]
+keywords = [
+  "instagram",
+  "instagram-scraper",
+  "instagram-api",
+  "instagram-scraper-api",
+  "best-instagram-scraper-api",
+  "cheap-instagram-scraper-api",
+  "social-media-api",
+  "socify",
+  "scraping",
+]
+dependencies = ["httpx>=0.27"]
+
+[project.urls]
+Homepage = "https://trysocify.com/instagram"
+Documentation = "https://trysocify.com/docs/api/instagram"
+Pricing = "https://trysocify.com/pricing"
+Source = "https://github.com/PLACEHOLDER/best-cheap-instagram-scraper-api"
+"Socify" = "https://trysocify.com"
+
+[tool.setuptools.packages.find]
+where = ["src"]
